@@ -47,7 +47,6 @@
     ]
 
     newTodo = ""
-    console.log(todos)
   }
 
   function removeTodo(id) {
